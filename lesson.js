@@ -1,0 +1,1 @@
+console.log(`Price: \${100}`);   // Price: ${100}
